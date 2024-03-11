@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre a disciplina Teste e Qualidade de Software:
--Feedback sobre a metodologia das aulas da disciplina:
+-Primeiro Nome:yuri afu
+-Profissão:reparador de celulares
+-Cidade:marotla
+-O que faz nas horas vaga:assisto anime
+-Feedback sobre a disciplina Teste e Qualidade de Software:nenhum
+-Feedback sobre a metodologia das aulas da disciplina:nenhum
 
 Obrigado!!!
 
